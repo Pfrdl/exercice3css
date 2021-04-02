@@ -1,0 +1,33 @@
+td, th
+{
+border: 1px solid black;
+
+}
+table
+{
+    border-collapse: collapse;
+    border: black bold;
+}
+.vert
+{
+background-color: green;
+
+}
+.rouge
+{
+    background-color: red;
+}
+.gris
+{
+    background-color: grey;
+}
+.centre
+{
+
+    text-align: center;
+}
+.vert1
+{
+    background-color: green;
+    text-align: center;
+}
