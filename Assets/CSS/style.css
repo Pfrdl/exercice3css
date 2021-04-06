@@ -4,7 +4,7 @@ border: 1px solid black;
 }
 table {
     border-collapse: collapse;
-    border: black bold;
+    border: 2px solid black bold;
 }
 .name2 {
 background-color: green;
@@ -23,4 +23,13 @@ background-color: green;
 #figure1 {
     background-color: green;
     text-align: center;
+}
+.marge1
+{
+    padding: 10px;
+}
+.marge
+{
+ padding-left: 20px;
+ padding-right: 10px;
 }
