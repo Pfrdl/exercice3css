@@ -15,6 +15,7 @@ background-color: green;
 }
 .name1 {
     background-color: grey;
+    
 }
 .figure {
 
@@ -23,13 +24,22 @@ background-color: green;
 #figure1 {
     background-color: green;
     text-align: center;
+    line-height: 25px;
 }
 .marge1
 {
-    padding: 10px;
+    padding-left: 10px;
 }
 .marge
 {
- padding-left: 20px;
+ padding-left: 80px;
  padding-right: 10px;
+}
+#largeur
+{
+    width: 180px;
+}
+#largeur1
+{
+    width: 130px;
 }
