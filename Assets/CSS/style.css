@@ -4,7 +4,7 @@ border: 1px solid black;
 }
 table {
     border-collapse: collapse;
-    border: 2px solid black bold;
+    border :solid 2px black;
 }
 .name2 {
 background-color: green;
