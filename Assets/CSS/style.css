@@ -1,11 +1,13 @@
-
+/* ajout de bordures internes (cellules) */
 td, th {
 border: 1px solid black;
 }
+/* Ajout de bordures externes et fusion des bordures du tableau */
 table {
     border-collapse: collapse;
     border :solid 2px black;
 }
+
 .name2 {
 background-color: green;
 
@@ -43,3 +45,9 @@ background-color: green;
 {
     width: 130px;
 }
+.name2, .name3{
+    width: 70px;
+
+}
+
+    
